@@ -1,0 +1,19 @@
+{
+  "name": "Dockerized-NodeJS-MongoDB-AngularJS-Sample-App",
+  "main": "server.js",
+  "version": "0.0.1",
+  "description": "Sample dockerized NodeJS, MongoDB, AngularJS app",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "colors": "^1.1.2",
+    "express": "latest",
+    "lodash": "latest",
+    "method-override": "latest",
+    "mongoose": "latest",
+    "morgan": "^1.8.2",
+    "winston": "^2.3.1"
+  }
+}
